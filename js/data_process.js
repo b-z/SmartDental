@@ -1,4 +1,4 @@
-var serverIP = "http://59.66.137.51:8000"
+var serverIP = "http://59.66.137.56:8000"
 
 function GetJsonSuccess (jsonData){
 	// console.log(jsonData);
